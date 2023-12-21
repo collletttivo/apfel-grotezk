@@ -1,5 +1,5 @@
 {
-.appVersion = "3221";
+.appVersion = "3217";
 .formatVersion = 3;
 axes = (
 {
@@ -20,6 +20,22 @@ value = 1;
 name = fsType;
 value = (
 );
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1,
+2
+);
+},
+{
+name = "Write lastChange";
+value = 0;
+},
+{
+name = "Write DisplayStrings";
+value = 0;
 }
 );
 date = "2022-08-01 10:00:35 +0000";
@@ -124,24 +140,24 @@ fontMaster = (
 {
 axesValues = (
 80,
-100
+1
 );
 customParameters = (
 {
 name = typoAscender;
-value = 954;
+value = 932;
 },
 {
 name = typoDescender;
-value = -232;
+value = -280;
 },
 {
 name = typoLineGap;
-value = 170;
+value = 70;
 },
 {
 name = winAscent;
-value = 954;
+value = 932;
 },
 {
 name = winDescent;
@@ -149,15 +165,15 @@ value = 281;
 },
 {
 name = hheaAscender;
-value = 954;
+value = 932;
 },
 {
 name = hheaDescender;
-value = -232;
+value = -280;
 },
 {
-name = typoLineGap;
-value = 170;
+name = hheaLineGap;
+value = 70;
 }
 );
 iconName = SemiExtended;
@@ -206,19 +222,19 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 954;
+value = 932;
 },
 {
 name = typoDescender;
-value = -232;
+value = -280;
 },
 {
 name = typoLineGap;
-value = 170;
+value = 70;
 },
 {
 name = winAscent;
-value = 954;
+value = 932;
 },
 {
 name = winDescent;
@@ -226,15 +242,15 @@ value = 281;
 },
 {
 name = hheaAscender;
-value = 954;
+value = 932;
 },
 {
 name = hheaDescender;
-value = -232;
+value = -280;
 },
 {
-name = typoLineGap;
-value = 170;
+name = hheaLineGap;
+value = 70;
 }
 );
 iconName = SemiExtended;
@@ -283,19 +299,19 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 954;
+value = 932;
 },
 {
 name = typoDescender;
-value = -232;
+value = -280;
 },
 {
 name = typoLineGap;
-value = 170;
+value = 70;
 },
 {
 name = winAscent;
-value = 954;
+value = 932;
 },
 {
 name = winDescent;
@@ -303,15 +319,15 @@ value = 281;
 },
 {
 name = hheaAscender;
-value = 954;
+value = 932;
 },
 {
 name = hheaDescender;
-value = -232;
+value = -280;
 },
 {
-name = typoLineGap;
-value = 170;
+name = hheaLineGap;
+value = 70;
 }
 );
 iconName = SemiBold_SemiExtended;
@@ -355,19 +371,19 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 954;
+value = 932;
 },
 {
 name = typoDescender;
-value = -232;
+value = -280;
 },
 {
 name = typoLineGap;
-value = 170;
+value = 70;
 },
 {
 name = winAscent;
-value = 954;
+value = 932;
 },
 {
 name = winDescent;
@@ -375,15 +391,15 @@ value = 281;
 },
 {
 name = hheaAscender;
-value = 954;
+value = 932;
 },
 {
 name = hheaDescender;
-value = -232;
+value = -280;
 },
 {
-name = typoLineGap;
-value = 170;
+name = hheaLineGap;
+value = 70;
 }
 );
 iconName = Bold_SemiExtended;
@@ -424,7 +440,7 @@ instances = (
 {
 axesValues = (
 80,
-100
+1
 );
 instanceInterpolations = {
 m004 = 1;
@@ -2332,14 +2348,14 @@ value = "Luigi Gorlero";
 },
 {
 key = designerURL;
-value = "http://luigigorlero.com/";
+value = "https://www.luigigorlero.com";
 },
 {
 key = manufacturers;
 values = (
 {
 language = dflt;
-value = "© Luigi Gorlero and Collletttivo";
+value = "© 2023, Luigi Gorlero & Collletttivo";
 }
 );
 },
@@ -2350,6 +2366,10 @@ value = "https://collletttivo.it/";
 {
 key = licenseURL;
 value = "https://scripts.sil.org/OFL";
+},
+{
+key = vendorID;
+value = CLT;
 }
 );
 stems = (

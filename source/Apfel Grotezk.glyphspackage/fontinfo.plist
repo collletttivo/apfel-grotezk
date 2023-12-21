@@ -2361,7 +2361,7 @@ value = "© 2023, Luigi Gorlero & Collletttivo";
 },
 {
 key = manufacturerURL;
-value = "https://collletttivo.it/";
+value = "https://collletttivo.it";
 },
 {
 key = licenseURL;

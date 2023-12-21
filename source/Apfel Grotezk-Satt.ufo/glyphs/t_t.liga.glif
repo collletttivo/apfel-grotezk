@@ -3,7 +3,7 @@
   <advance width="780"/>
   <outline>
     <component base="t"/>
-    <component base="t" xOffset="372" identifier="6C54AA95"/>
+    <component base="t" xOffset="372" identifier="B8E08481"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <string>t</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>6C54AA95</key>
+        <key>B8E08481</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

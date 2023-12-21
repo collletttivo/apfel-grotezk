@@ -3,8 +3,8 @@
   <advance width="676"/>
   <unicode hex="00BD"/>
   <outline>
-    <component base="fraction" xOffset="-58" identifier="25D666C8"/>
-    <component base="onesuperior" xOffset="24" identifier="B433E428"/>
+    <component base="fraction" xOffset="-58" identifier="50F160ED"/>
+    <component base="onesuperior" xOffset="24" identifier="4923A202"/>
     <component base="twosuperior" xOffset="372" yOffset="-346"/>
   </outline>
   <lib>
@@ -13,12 +13,12 @@
       <string>=|+4</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>25D666C8</key>
+        <key>4923A202</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B433E428</key>
+        <key>50F160ED</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

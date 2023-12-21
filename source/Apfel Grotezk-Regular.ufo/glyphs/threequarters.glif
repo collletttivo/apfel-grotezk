@@ -3,9 +3,9 @@
   <advance width="680"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="threesuperior" identifier="C5CFADF9"/>
-    <component base="fraction" xOffset="-38" identifier="DE6CBEC4"/>
-    <component base="foursuperior" xOffset="406" yOffset="-338" identifier="5B5003BB"/>
+    <component base="threesuperior" identifier="7F279DDB"/>
+    <component base="fraction" xOffset="-38" identifier="02825410"/>
+    <component base="foursuperior" xOffset="406" yOffset="-338" identifier="DFC5D7D5"/>
   </outline>
   <lib>
     <dict>
@@ -15,17 +15,17 @@
       <string>onehalf</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>5B5003BB</key>
+        <key>02825410</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C5CFADF9</key>
+        <key>7F279DDB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>DE6CBEC4</key>
+        <key>DFC5D7D5</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

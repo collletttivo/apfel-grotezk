@@ -3,8 +3,8 @@
   <advance width="846"/>
   <outline>
     <component base="t"/>
-    <component base="t" xOffset="538" identifier="7541600C"/>
-    <component base="t" xOffset="270" identifier="59CBF26C"/>
+    <component base="t" xOffset="538" identifier="8A17A202"/>
+    <component base="t" xOffset="270" identifier="4DFCC7A8"/>
   </outline>
   <lib>
     <dict>
@@ -14,12 +14,12 @@
       <string>t</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>59CBF26C</key>
+        <key>4DFCC7A8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>7541600C</key>
+        <key>8A17A202</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
